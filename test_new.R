@@ -1,6 +1,6 @@
 library(plyr)
 library(reshape2)
-library(moddicomV2)
+library(moddicom)
 #library("misc3d", lib.loc="~/R/x86_64-pc-linux-gnu-library/3.4")
 source("./functions/featureExtraction_doseVoxel.R")
 
